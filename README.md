@@ -6,7 +6,7 @@ This project is currently in beta mode. While it is fully functional, please be 
 
 # NCW - Example of signing EdDSA Transactions
 
-This repo aims to provide a compact way to perform signatures fore Fireblocks EdDSA extended keys.
+This repo aims to provide a compact way to perform signatures for Fireblocks EdDSA extended keys.
 
 ## Limitations
 
