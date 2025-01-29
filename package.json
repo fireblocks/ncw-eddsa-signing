@@ -19,7 +19,7 @@
   "dependencies": {
     "@noble/curves": "^1.4.0",
     "@noble/ed25519": "^2.1.0",
-    "@solana/web3.js": "^1.91.1",
+    "@solana/web3.js": "^1.98.0",
     "bigint-buffer": "^1.1.5",
     "bs58check": "^3.0.1",
     "ethers": "^6.11.1",
